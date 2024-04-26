@@ -21,7 +21,7 @@ The main objectives of the project were:
 
 ## Certificate
 
-![App Screenshot]([https://github.com/razilahamed/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/blob/master/1111.png?raw=true](https://github.com/razilahamed/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/blob/master/Unsupervised%20Machine%20Learning%20for%20Customer%20Market%20Segmentation.png?raw=true))
+![App Screenshot]([[https://github.com/razilahamed/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/blob/master/1111.png?raw=true](https://github.com/razilahamed/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/blob/master/Unsupervised%20Machine%20Learning%20for%20Customer%20Market%20Segmentation.png?raw=true)](https://github.com/razilahamed/Unsupervised-Machine-Learning-for-Customer-Market-Segmentation/blob/master/Unsupervised%20Machine%20Learning%20for%20Customer%20Market%20Segmentation.png?raw=true))
 
 
 ## Feedback
